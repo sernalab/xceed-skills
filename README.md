@@ -17,11 +17,11 @@ The goal is to display a list of all football players according to the design pr
 This list should be dynamic, meaning that it will have filtering and sorting controls.
 
 For every Player, you’re going to show:
-• Player’s Club
-• Player’s Club symbol
-• Player’s Name
-• Player’s Role
-• Player’s Nationality
+*Player’s Club
+*Player’s Club symbol
+*Player’s Name
+*Player’s Role
+*Player’s Nationality
 
 Each column should have filtering and sorting controls, except for Name, which will have only sorting and for Symbol, which will have no controls. Filters will be a list of all possible values, with a checkbox to enable/disable it. Players count has to be updated after each filtering action.
 
